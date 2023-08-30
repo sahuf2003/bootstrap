@@ -1,8 +1,27 @@
-.footer a {
-    color:blue ; /* Default link color */
-    transition: color; /* Smooth color transition on hover */
-  }
-  
-  .footer a:hover {
-    color: red; /* New color on hover */
-  }
+body{
+    background-color: black;
+}
+nav{
+    background-color: blue;
+}
+h3 {
+    text-align: center;
+    margin-top: 0px;
+    color: beige;
+}
+a:hover{
+    color:orange;
+}
+h6{
+    color: aliceblue;
+}
+p{
+    color :black
+}
+a{
+    color: aliceblue;
+}
+.text{
+    font-size: 20px;
+    padding-left: 20px;
+}
