@@ -1,0 +1,8 @@
+.footer a {
+    color:blue ; /* Default link color */
+    transition: color; /* Smooth color transition on hover */
+  }
+  
+  .footer a:hover {
+    color: red; /* New color on hover */
+  }
