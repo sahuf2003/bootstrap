@@ -1,5 +1,6 @@
 body{
-    background-color: black;
+    background-color:black;
+    font-family: 'Lato', sans-serif;
 }
 nav{
     background-color: blue;
@@ -11,6 +12,7 @@ h3 {
 }
 a:hover{
     color:orange;
+    text-decoration: underline;
 }
 h6{
     color: aliceblue;
@@ -25,3 +27,71 @@ a{
     font-size: 20px;
     padding-left: 20px;
 }
+
+
+
+h1 {
+    margin-bottom: 40px;
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px;
+    }
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+
+}
+
+.card{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#services .services-top {
+    padding: 70px 0 50px;
+    color: aliceblue;
+}
+#services .services-list {
+    padding-top: 50px;
+    color: aliceblue;
+}
+.services-list .service-block {
+    margin-bottom: 25px;
+}
+.services-list .service-block .ico {
+    font-size: 38px;
+    float: left;
+}
+.services-list .service-block .text-block {
+    margin-left: 58px;
+}
+.services-list .service-block .text-block .name {
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 5px;
+    color: aliceblue;
+}
+.services-list .service-block .text-block .info {
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+.services-list .service-block .text-block .text {
+    font-size: 12px;
+    line-height: normal;
+    font-weight: 300;
+    color: aliceblue;
+}
+.highlight {
+    color: #2ac5ed;
+    font-weight:bold;
+}                    
